@@ -5,7 +5,7 @@ It's an easy to use CMS with a focus on blazing fast performance. It should be p
 
 ## YerTools - What is it?
 This is a collection of standalone tools/libraries i wrote, which aren't big enough for their own repository.
-Everything is licensed under the [MIT-License](/LICENSE.md), so have fun trying it out! :)
+Everything is licensed under the [MIT-License](https://github.com/yerTools/YerTools/blob/master/LICENSE.md), so have fun trying it out! :)
 
 ## Who am I?
 I'm Felix Mayer, born 1998 in bavaria, germany.  
@@ -32,4 +32,4 @@ If you want additional functionality/more features you can gladly open a [pull r
 
 ---
 
-##### [Copyright © 2020 Felix Mayer (FelixM@yer.tools), yerTools](/LICENSE.md)
+##### [Copyright © 2020 Felix Mayer (FelixM@yer.tools), yerTools](https://github.com/yerTools/YerTools/blob/master/LICENSE.md)
